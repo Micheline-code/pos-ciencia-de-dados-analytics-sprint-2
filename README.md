@@ -10,4 +10,4 @@ Disponível em: https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-int
 
 **3) Cópia de Segurança:** `COPIA_DE_SEGURANCA_MVP_Analise_de_Dados_e_Boas_Praticas_MICHELINE_4052024001925.ipynb`
 
-( backup do código Python do MVP caso não seja possível abrir o arquivo no Google Collab)
+( backup do código Python do MVP caso não seja possível abrir o arquivo no Google Colab)
