@@ -1,4 +1,4 @@
-# pos-ciencia-de-dados-analytics-sprint-3
+# pos-ciencia-de-dados-analytics-sprint-2
 
 **1) MVP:** `MVP_Analise_de_Dados_e_Boas_Praticas_MICHELINE_4052024001925.ipynb`
 
